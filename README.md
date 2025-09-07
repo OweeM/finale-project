@@ -3,6 +3,8 @@
 This project contains a shell script to calculate simple interest using the formula:  
 **SI = (P × T × R) / 100**  
 
+In next part of project, we will also add compound interest in it.
+
 ## Files Included  
 - simple-interest.sh : Bash script to calculate simple interest.  
 - LICENSE : Apache 2.0 License file.  
@@ -12,4 +14,5 @@ This project contains a shell script to calculate simple interest using the form
 ## Usage  
 Run the script in a terminal:  
 ```bash
+
 bash simple-interest.sh
